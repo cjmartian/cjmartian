@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👽🛸
+
+My name is Connor Martin, I enjoy working on anything open source and making connections with the community. Come say hi!
+
+I'm currently working at GitHub. I'm an Anaconda alumni, I've worked on just about everything distribution related.
 
 <!--
 **cjmartian/cjmartian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
